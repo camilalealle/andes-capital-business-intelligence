@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Jupyter and temporary files
+*.tmp
+*.log
+
+# VS Code and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbit.cache
+*.pbix.autorecover
+*.lock
+
+# Private or restricted datasets
+data/private/
+
+# Local credentials
+*.key
+*.pem
