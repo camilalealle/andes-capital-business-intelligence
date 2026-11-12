@@ -104,7 +104,7 @@ También se revisaron los cálculos de comisiones, conservando los importes regi
 | 1 | [Exploración y validación](notebooks/01_data_exploration.ipynb) | Python, Pandas |
 | 2 | [Preparación de datos](notebooks/02_data_preparation.ipynb) | Python, Pandas |
 | 3 | [Análisis de negocio](notebooks/03_business_analysis.ipynb) | Python, Pandas |
-| 4 | Modelado y dashboard | Power BI, Power Query, DAX |
+| 4 | [Modelado y dashboard](powerbi/Andes_Capital_Business_Intelligence.pbix) · [Vista previa PDF](powerbi/Andes_Capital_Business_Intelligence.pdf) | Power BI, Power Query, DAX |
 
 Se implementó un esquema estrella que relaciona las ventas con las dimensiones de clientes, propiedades y fechas.
 

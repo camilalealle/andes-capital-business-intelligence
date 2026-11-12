@@ -104,7 +104,7 @@ Commission calculations were reviewed against the recorded amounts, which were p
 | 1 | [Data exploration and validation](notebooks/01_data_exploration.ipynb) | Python, Pandas |
 | 2 | [Data preparation](notebooks/02_data_preparation.ipynb) | Python, Pandas |
 | 3 | [Business analysis](notebooks/03_business_analysis.ipynb) | Python, Pandas |
-| 4 | Dashboard and data modeling | Power BI, Power Query, DAX |
+| 4 | [Dashboard and data modeling](powerbi/Andes_Capital_Business_Intelligence.pbix) · [PDF preview](powerbi/Andes_Capital_Business_Intelligence.pdf) | Power BI, Power Query, DAX |
 
 A star schema connects sales transactions with customer, property, and date dimensions.
 
